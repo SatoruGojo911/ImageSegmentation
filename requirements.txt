@@ -1,7 +1,7 @@
 streamlit>=1.13.1  # Latest compatible version
 pandas>=1.4.2  # Ensure version is at least 1.4.2 but accept newer
 numpy>=1.23.4  # Ensure version is at least 1.23.4 but accept newer
-opencv-python>=4.10.0.82  # OpenCV library (assuming version 4.8.0 or newer)
+opencv-python>=4.10.0  # OpenCV library (assuming version 4.8.0 or newer)
 warnings  # No specific version needed (part of standard library)
 matplotlib>=3.6.2  # Ensure version is at least 3.6.2 but accept newer
 scikit-learn>=1.2.0  # Assuming you might use scikit-learn later (optional)
